@@ -4,7 +4,7 @@ iPHLoc-ES: Identification of Bacteriophage Protein Locations using Evolutionary 
 
 ## installation:
 
-no installation needed. following prerequisite are required to run the software. just download the files in a folder or download the iPHLoc-ES.tar.gz file and extract it into your local directory 
+No installation needed. Just download the files in a folder or download the iPHLoc-ES.tar.gz file and extract it into your local directory. following prerequisite are required to run the software: 
 
 1. install python 3.4 or latest version
 2. install following python packages:
