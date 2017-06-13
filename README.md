@@ -20,6 +20,7 @@ Use the following commands from the terminal:
 python3.4 predict.py PSSM SPD3 OPTION
 
 
+
 Usage:/home/swakkhar/Dropbox/Protein-subcelluar localization/iPHLoc-ES/predict.py PSSM SPD3 OPTION
 
 PSSM: PSSM file generated from PSI-BLAST
